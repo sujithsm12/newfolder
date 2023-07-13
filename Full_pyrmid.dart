@@ -14,7 +14,7 @@ void main(){
  for(k=1;k<=2*i-1;k++){
   stdout.write("*");
  }
- m--;
+ m--; 
    print("\n");
   }
 }
